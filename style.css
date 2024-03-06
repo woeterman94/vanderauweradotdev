@@ -1,0 +1,74 @@
+@import url(https://fonts.googleapis.com/css?family=Press+Start+2P);
+
+body {
+  background: #00000c;
+  color: #B0FDFF;
+  font-family: 'Press Start 2P', sans-serif;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+h1 {
+  font-family: 'Press Start 2P', cursive;
+  opacity: 0.1
+}
+
+.main-header,
+footer {
+  font-family: sans-serif
+}
+
+span {
+  outline: none;
+  text-transform: uppercase
+}
+
+.wrap {
+  max-width: 500px;
+  margin: 50px auto;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  display: block;
+}
+
+li {
+  display: block;
+  text-shadow: 0 0 14px #5d9293;
+  padding: 20px 0;
+}
+
+iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%
+}
+
+center {
+  font-size: 10px;
+  color: #666;
+  display: block;
+  margin-top: 200px
+}
+
+.blinker {
+  opacity: 0.1
+}
+
+.profile-header {
+  background: url(https://scontent-dfw1-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/12032231_1179492925401698_5808026066308281545_n.jpg?oh=347fc2f6e7f5a9efbafc7d15cb78d6d9&oe=569E3594) top center no-repeat;
+  background-size: 100%
+}
+
+#profile-links a {
+  display: block
+}
+
+.center {
+  text-align: center;
+}
